@@ -1,0 +1,14 @@
+.SAFE {
+  background-color: green;
+  color: white;
+}
+
+.WARN {
+  background-color: yellow;
+  color: black;
+}
+
+.ALERT {
+  background-color: red;
+  color: white;
+}
